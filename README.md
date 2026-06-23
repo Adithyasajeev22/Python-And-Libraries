@@ -1,8 +1,8 @@
 # 🐍 Python & Libraries – Complete Learning Journey
 
-This repository showcases my **Python learning journey starting from November**, covering core programming concepts and practical implementations using essential libraries like **NumPy, Pandas, and Matplotlib**.
+This repository showcases my Python learning journey starting from November, covering core programming concepts and practical implementations using essential libraries like NumPy, Pandas, and Matplotlib.
 
-It reflects a structured path from **fundamentals → problem solving → advanced concepts → data analysis & visualization**.
+It reflects a structured path from fundamentals → problem solving → advanced concepts → data analysis & visualization.
 
 ---
 
@@ -249,18 +249,10 @@ Matplotlib is used for data visualization.
 
 ---
 
-## 📈 Learning Progress
 
-* Started learning Python in **November**
-* Built strong programming fundamentals
-* Solved real-world logical problems
-* Gained hands-on experience in data handling and visualization
-* Established foundation for Machine Learning & Deep Learning
-
----
 
 ## 📌 Conclusion
 
-This repository represents a complete journey from **basic Python programming to advanced data analysis and visualization**, forming a strong base for further exploration in AI and Data Science.
+This repository represents a complete journey from basic Python programming to advanced data analysis and visualization, forming a strong base for further exploration in AI and Data Science.
 
 ---
